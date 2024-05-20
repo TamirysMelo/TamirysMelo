@@ -14,7 +14,6 @@ Eu sou Tamirys Melo, uma desenvolvedora apaixonada por tecnologia e educação. 
   - ![ABAP](https://img.shields.io/badge/-ABAP-333333?style=flat&logo=sap)
   - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  - ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   - ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
     
 - **Ferramentas e Tecnologias:**
