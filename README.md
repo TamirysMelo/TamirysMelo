@@ -6,8 +6,7 @@ Eu sou Tamirys Melo, uma desenvolvedora apaixonada por tecnologia e educação. 
 
 - 🌱 Atualmente, estou aprendendo Web Front-End e Python.
 - 👯 Estou buscando colaborar em projetos de código aberto e iniciativas inovadoras.
-- 📫 Como me encontrar: [seu email](mailto:tamirys.c.melo@gmail.com)
-- ⚡ Curiosidade: [alguma curiosidade interessante sobre você].
+- 📫 Como me encontrar: [E-mail](mailto:tamirys.c.melo@gmail.com)
 
 ## Habilidades
 
@@ -25,10 +24,6 @@ Eu sou Tamirys Melo, uma desenvolvedora apaixonada por tecnologia e educação. 
 - **Frameworks e Bibliotecas:**
   - ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   - ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-
-## Estatísticas do GitHub
-
-![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
 
 ## Conecte-se Comigo
 
